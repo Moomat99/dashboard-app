@@ -1,0 +1,14 @@
+{
+  "name": "dashboard-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Matthew odumosu",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^18.3.1"
+  }
+}
